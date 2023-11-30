@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T19:24:33.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="E9vRUsouTpPFk4D7XXnh" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T16:13:35.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CqP4HpOFX2ROZEpG9og-" version="22.1.5" type="github">
   <diagram name="Página-1" id="S0HzrSP43NCxXnKHcygr">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,6 +88,33 @@
         </mxCell>
         <mxCell id="ZC1FeHEdA0jaDkI6yqFQ-31" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;idProvedor&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="500" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC1FeHEdA0jaDkI6yqFQ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZC1FeHEdA0jaDkI6yqFQ-35" target="ZC1FeHEdA0jaDkI6yqFQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC1FeHEdA0jaDkI6yqFQ-35" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;idProvedor&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC1FeHEdA0jaDkI6yqFQ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZC1FeHEdA0jaDkI6yqFQ-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC1FeHEdA0jaDkI6yqFQ-37" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;idCliente&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC1FeHEdA0jaDkI6yqFQ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZC1FeHEdA0jaDkI6yqFQ-38" target="ZC1FeHEdA0jaDkI6yqFQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC1FeHEdA0jaDkI6yqFQ-38" value="folio" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
