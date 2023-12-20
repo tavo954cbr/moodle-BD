@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T07:27:42.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7ySct4LxEDyhANRNvB1i" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T07:29:58.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VUz4OrcPn1FKw5m-4xZ4" version="22.1.11" type="github">
   <diagram name="Página-1" id="RDdefHl_8dmTmDZbcNID">
-    <mxGraphModel dx="3067" dy="2125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3067" dy="3294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,6 +180,9 @@
             <mxPoint x="1020" y="-890" as="sourcePoint" />
             <mxPoint x="910" y="-775" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CIU5cRr3LlOwSM0uPMPc-77" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;PRACTICA DATAWAREHOUSE ACTIVIDAD #4&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-1230" width="1070" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
